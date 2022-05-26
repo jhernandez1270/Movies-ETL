@@ -1,3 +1,5 @@
+# Adding ratings.csv because it's too large
+ratings.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
