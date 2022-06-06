@@ -1,3 +1,6 @@
+# adding .DS_Store
+.DS_Store
+
 # adding config.py
 config.py
 # Adding ratings.csv because it's too large
