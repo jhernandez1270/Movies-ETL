@@ -25,3 +25,11 @@ As a result, our plan was to:
 Cleaning process took several rounds of inspecting the data from each source until the data
 was uniform and correct. Then we merged the data from all three sources into one database where 
 the data can be easily queried.
+
+## Summary
+
+Here are visuals of the movies table and ratings table of the new database;
+
+![Movies table query](Resources/movies_query.png)
+
+![Ratings table query](Resources/ratings_query.png)
